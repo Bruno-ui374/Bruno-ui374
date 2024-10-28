@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Bruno-ui374
 - 👀 I’m interested in programming and software development ...
-- 🌱 I’m currently learning ...cs50x introduction to computer science
-- 💞️ I’m looking to collaborate on ...porjects programmed in c, python, javascript and sql and c++
-- 📫 How to reach me ...+256 763367927 is my whatsapp number
+- 🌱 I’m a software and cloud engineering student 
+- 💞️ I’m looking to collaborate on ...software devlopemnt projects in pyhton, c , c# front-end and back-end technologies and cloud computing
+- 📫 How to reach me ...my email is: ssemabrunomartin@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
