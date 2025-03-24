@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bruno Martin Ssematimab
+- 👋 Hi, I’m Bruno Martin Ssematimba
 - 👀 I’m interested in programming and software development ...
 - 🌱 I’m a software and cloud engineering student 
 - 💞️ I’m looking to collaborate on ...software devlopemnt projects in pyhton, c , c# front-end and back-end technologies and cloud computing
